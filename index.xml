@@ -6,10 +6,19 @@
     <description>Recent content on zzh的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2020 10:19:09 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 19:16:51 +0800</lastBuildDate>
     
 	<atom:link href="https://zzh2524338.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Note1</title>
+      <link>https://zzh2524338.github.io/post/note1/</link>
+      <pubDate>Tue, 13 Oct 2020 19:16:51 +0800</pubDate>
+      
+      <guid>https://zzh2524338.github.io/post/note1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>使用Hugo进行个人博客搭建</title>
