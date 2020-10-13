@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on zzh的个人博客</title>
-    <link>zzh2524338.github.io/categories/</link>
+    <link>https://zzh2524338.github.io/categories/</link>
     <description>Recent content in Categories on zzh的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 10:19:09 +0800</lastBuildDate>
     
-	<atom:link href="zzh2524338.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zzh2524338.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>category1</title>
-      <link>zzh2524338.github.io/categories/category1/</link>
+      <link>https://zzh2524338.github.io/categories/category1/</link>
       <pubDate>Tue, 13 Oct 2020 10:19:09 +0800</pubDate>
       
-      <guid>zzh2524338.github.io/categories/category1/</guid>
+      <guid>https://zzh2524338.github.io/categories/category1/</guid>
       <description></description>
     </item>
     
