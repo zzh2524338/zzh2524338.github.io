@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on zzh的个人博客</title>
-    <link>https://zzh2524338.github.io/tags/</link>
+    <link>zzh2524338.github.io/tags/</link>
     <description>Recent content in Tags on zzh的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2020 10:19:09 +0800</lastBuildDate>
     
-	<atom:link href="https://zzh2524338.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="zzh2524338.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo</title>
-      <link>https://zzh2524338.github.io/tags/hugo/</link>
+      <link>zzh2524338.github.io/tags/hugo/</link>
       <pubDate>Tue, 13 Oct 2020 10:19:09 +0800</pubDate>
       
-      <guid>https://zzh2524338.github.io/tags/hugo/</guid>
+      <guid>zzh2524338.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>个人博客搭建</title>
-      <link>https://zzh2524338.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <link>zzh2524338.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Tue, 13 Oct 2020 10:19:09 +0800</pubDate>
       
-      <guid>https://zzh2524338.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <guid>zzh2524338.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
       <description></description>
     </item>
     
